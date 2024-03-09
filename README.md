@@ -1,2 +1,2 @@
 # numpy
-basics of NumPy
+Understanding the basics of NumPy Library in Python.
